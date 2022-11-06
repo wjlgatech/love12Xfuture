@@ -1,7 +1,7 @@
 # Love 12X Future
 
 
-## Love 12X future Paul [09/04/2022, 12/04/2022] 
+## 11/06/2022 Update 
 
 This will be the 12X-future-me within 12 weeks, fr. 09/04 to 12/04. 
 
