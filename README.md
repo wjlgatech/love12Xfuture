@@ -25,9 +25,9 @@ GYM3. M = MMA-Marathon-Mountaineering:  train in MMA and compete on amateur leve
 
 ## Resource
 
-- GitHub Update: https://github.com/wjlgatech/Love-12x-Future
+- GitHub Update: https://github.com/wjlgatech/love12xfuture
 
-- YouTube Demo: www.youtube.com@love-12x-future
+- YouTube Demo: www.youtube.com@love12xfuture
 
 
 ## nbdev_colab
