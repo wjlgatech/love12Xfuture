@@ -1,10 +1,7 @@
-# Love-12X-Future
+# Love 12X Future
 
 
-##12X-future-me [09/04/2022, 12/04/2022] 
-
-
-### Before & After Differences
+## Love 12X future Paul [09/04/2022, 12/04/2022] 
 
 This will be the 12X-future-me within 12 weeks, fr. 09/04 to 12/04. 
 
