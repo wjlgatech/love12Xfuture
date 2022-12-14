@@ -5,11 +5,11 @@ I see myself living as a "PTL" in the upcoming 2 periods, Exploration & Exploita
 
 Exploration: [12/12/2022,01/28/2023] 7 weeks
 - Play by Praying: play in [MMA] as a competitor, and pray through [painting] as a pro.
-- Teach by Learning: Teach an open source class in [Graph ML] to AI-ML-DS professionals. Build an in-person class for paid users (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimensions [past-NOW-future, he/she-I-you, body-MIND-spirit].
+- Teach by Learning: Teach an open source class in [Graph ML] to AI-ML-DS professionals. Build an in-person class for paid users (aiming 12/batch) to 12X [fun, fruitfulness] on 3 dimensions [past-NOW-future, he/she-I-you, body-MIND-spirit].
 - Launch by Making: launch [humors.ai, Nestly AI] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]
 
 Exploitation: [01/09/2023,  04/01/2023] 12 weeks
-- Play by Praying: play in [MMA, Marathon] as a competitor, pray through [painting, break-dancing] as a pro. 
+- Play by Praying: play in [MMA, Marathon, Mountaineer] as a competitor, pray through [violin, painting, break-dancing] as a pro. 
 
 - Teach by Learning: Teach an open source class in [Quantum Generative Learning] to AI-ML-DS professionals. Build an in-person class for paid VIPs (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimensions [past-NOW-future, he/she-I-you, body-MIND-spirit].
 
