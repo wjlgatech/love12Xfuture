@@ -1,5 +1,21 @@
 # Love 12X Future
+## 12/13/2022 Update
+What do you see yourself in 12 weeks? From Now (mid-Dec 2022) to 3 mo into the future (mid-Mar 2023)?
 
+Here is my version; what are yours?
+
+- Produce & Create: launch humors.ai MVP within 30 days, followed by 12 weekly iterations, each aiming for 23% improvement in 4 specified areas (eg. R&D, Users Network, Sale&Marketing, VC)
+
+- Learn by Teaching: Teach an open source class to 12k people, and build a high-ticket VIP class for 12 C-level executives to 12X-body-mind-spirit happiness and productivity.
+
+- Play & Pray: compete as ameture in MMA-Marathon-Mountaineering , perform as professional in painting-dancing-violin
+
+##12/12/2022 Update
+
+Results: 
+- GYM1: 90% success except 1) the open-source package is still under construction 2) graph ML online course finished 2/12
+- GYM2: published 33 videos = 7 short + 26 long with 29 subscribers << the expected 300k :}{:
+- GYM3: weekly 4-5 MMA training; weekly 5-10K training; 2 times national park mountaineering trips; signed up for 2 upcoming 5k, 10k road races; 1:1 coaching for 2 kickboxing & MMA fights scheduled in Jan, Mar 2023.
 
 ## 11/06/2022 Update 
 
