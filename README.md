@@ -4,14 +4,28 @@
 I see myself living as a "PTL" in the upcoming 2 periods, Exploration & Exploitation, which are about 7% to 12% overlapping.
 
 Exploration: [12/12/2022,01/28/2023] 7 weeks
-- Play by Praying: play in [MMA] as a competitor, pray through [painting] as a pro.
-- Teach by Learning: Teach an open source class in [Graph ML] to AI-ML-DS professionals. Build a in-person class for paid users (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimentions [past-NOW-future, he/she-I-you, body-MIND-spirit].
+- Play by Praying: play in [MMA] as a competitor, and pray through [painting] as a pro.
+- Teach by Learning: Teach an open source class in [Graph ML] to AI-ML-DS professionals. Build an in-person class for paid users (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimensions [past-NOW-future, he/she-I-you, body-MIND-spirit].
 - Launch by Making: launch [humors.ai, Nestly AI] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]
 
 Exploitation: [01/09/2023,  04/01/2023] 12 weeks
-- Play by Praying: play in [MMA, Marathon] as a competitor, pray through [painting, break-dancing] as a pro.
-- Teach by Learning: Teach an open source class in [Quantum Generative Learning] to AI-ML-DS professionals. Build a in-person class for paid VIPs (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimentions [past-NOW-future, he/she-I-you, body-MIND-spirit].
-- Launch by Making: launch [X] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]
+- Play by Praying: play in [MMA, Marathon] as a competitor, pray through [painting, break-dancing] as a pro. 
+
+- Teach by Learning: Teach an open source class in [Quantum Generative Learning] to AI-ML-DS professionals. Build an in-person class for paid VIPs (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimensions [past-NOW-future, he/she-I-you, body-MIND-spirit].
+
+- Launch by Making: launch [X] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]; publish 7 papers on the level of [NIPS, NAT, CELL, LANCET, HBR, PHYREV, ANNL].
+
+===MMA=== top-3 at https://camomma.org/Events (eg. 559 FIGHTS 94 + DANIEL COMPTON'S CENTRAL COAST CHAMPIONSHIPS); 
+
+===Marathon=== https://www.runguides.com/san-francisco/runs (eg. China Camp Challenge 5K/10K/Half Marathon
+Jan 28, 2023 - Saturday; Napa Valley Marathon
+Mar 5, 2023 - Sunday; Redwood - Spring
+Apr 1, 2023 - Saturday)
+
+===Mountaineering===  5-7 days monthly retreat in [Yosemite, Redwood, Yellowstone]. 
+
+Updates: https://github.com/wjlgatech/love-12x-future
+Demo: www.youtube.com@love-12x-future
 
 ## 12/12/2022 Update
 
