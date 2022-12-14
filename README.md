@@ -1,16 +1,19 @@
 # Love 12X Future
-## 12/13/2022 Update
-What do you see yourself in 12 weeks? From Now (mid-Dec 2022) to 3 mo into the future (mid-Mar 2023)?
+## 12/14/2022 Update
 
-Here is my version; what are yours?
+I see myself living as a "PTL" in the upcoming 2 periods, Exploration & Exploitation, which are about 7% to 12% overlapping.
 
-- Produce & Create: launch humors.ai MVP within 30 days, followed by 12 weekly iterations, each aiming for 23% improvement in 4 specified areas (eg. R&D, Users Network, Sale&Marketing, VC)
+Exploration: [12/12/2022,01/28/2023] 7 weeks
+- Play by Praying: play in [MMA] as a competitor, pray through [painting] as a pro.
+- Teach by Learning: Teach an open source class in [Graph ML] to AI-ML-DS professionals. Build a in-person class for paid users (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimentions [past-NOW-future, he/she-I-you, body-MIND-spirit].
+- Launch by Making: launch [humors.ai, Nestly AI] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]
 
-- Learn by Teaching: Teach an open source class to 12k people, and build a high-ticket VIP class for 12 C-level executives to 12X-body-mind-spirit happiness and productivity.
+Exploitation: [01/09/2023,  04/01/2023] 12 weeks
+- Play by Praying: play in [MMA, Marathon] as a competitor, pray through [painting, break-dancing] as a pro.
+- Teach by Learning: Teach an open source class in [Quantum Generative Learning] to AI-ML-DS professionals. Build a in-person class for paid VIPs (aiming 7/batch) to 12X [fun, fruitfulness] on 3 dimentions [past-NOW-future, he/she-I-you, body-MIND-spirit].
+- Launch by Making: launch [X] MVP within 30 days, re-launch every week with [user-feedback, team-feedforth] for 12 weekly iterations, each aiming for 23% improvement in 4 specified areas [R&D, Users Service, Sale&Marketing, Revenue & VC]
 
-- Play & Pray: compete as ameture in MMA-Marathon-Mountaineering , perform as professional in painting-dancing-violin
-
-##12/12/2022 Update
+## 12/12/2022 Update
 
 Results: 
 - GYM1: 90% success except 1) the open-source package is still under construction 2) graph ML online course finished 2/12
